@@ -38,7 +38,7 @@ Installation
 
 .. code-block:: shell
 
-    $ git clone git@github.com:Fahima-Islam/chop.git
+    $ git clone git@github.com:ornlneutronimaging/chop.git
     $ cd chop
     
 * Anaconda (Recommended)
