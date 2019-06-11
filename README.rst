@@ -28,7 +28,7 @@ Features
 
 Examples
 --------
-.. image:: https://raw.githubusercontent.com/Fahima-Islam/c3dp/master/figures/Screenshot%20from%202019-06-10%23-04-30.png
+.. image:: https://raw.githubusercontent.com/Fahima-Islam/chop/master/figures/Screenshot%20from%202019-06-10%23-04-30.png
    :width: 300pt
 
 
