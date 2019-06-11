@@ -12,7 +12,8 @@ chop
         :target: https://travis-ci.org/Fahima-Islam/chop
 
 .. image:: https://readthedocs.org/projects/chop/badge/?version=latest
-        :target: https://venus-chopper-design.readthedocs.io/en/latest/
+        :target: https://venus-chopper-design.readthedocs.io/en/latest/?badge=latest
+        :alt: Documentation Status
      
 
 
