@@ -24,7 +24,7 @@ Features
 * Calculation of the band-width to avoid frame overlap
 * Calculation of the time when chopper T1 or T2  or T3 opens
 * Calculation of the chopper phase angle
-* plot the time-distance diagram for chopper configuration
+* Plot the time-distance diagram for chopper configuration
 
 
 Examples
