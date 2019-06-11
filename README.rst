@@ -29,6 +29,7 @@ Features
 
 Examples
 --------
+see notebook : https://github.com/ornlneutronimaging/chop/blob/master/notebooks/Time_Distance_DIagram-Fahima.ipynb
 .. image:: https://raw.githubusercontent.com/ornlneutronimaging/chop/master/figure/Screenshot%20from%202019-06-10%2023-04-30.png
    :width: 300pt
 
