@@ -13,7 +13,7 @@ chop
 
 .. image:: https://readthedocs.org/projects/chop/badge/?version=latest
         :target: https://venus-chopper-design.readthedocs.io/en/latest/
-        :alt: Documentation Status
+     
 
 
 
