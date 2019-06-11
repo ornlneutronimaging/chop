@@ -54,7 +54,7 @@ Installation
 * Pypi
 .. code-block:: shell
 
-    $ pip install chop
+    $ pip install chop3
     
 
 
