@@ -2,7 +2,9 @@
 chop
 ====
 
-
+.. image:: https://anaconda.org/fi0/c3dp/badges/version.svg   
+        :target: https://anaconda.org/fi0/chop
+        
 .. image:: https://img.shields.io/pypi/v/chop.svg
         :target: https://pypi.python.org/pypi/chop
 
