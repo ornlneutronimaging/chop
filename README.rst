@@ -17,16 +17,40 @@ chop
 
 
 Produce the time distance diagram for different chooper configuration
-
-
-* Free software: MIT license
-* Documentation: https://chop.readthedocs.io.
-
-
+---------------------------------------------------------------------------------
 Features
 --------
 
-* TODO
+* Calculation of the wavelength band-width to avoid frame overlap
+* Calculation of the time when chopper T1 or T2  or T3 opens
+* Calculation of the chopper phase angle
+
+
+Examples
+--------
+.. image:: https://raw.githubusercontent.com/Fahima-Islam/c3dp/master/figures/Screenshot%20from%202019-06-10%23-04-30.png
+   :width: 300pt
+
+
+Installation
+-------------
+* Clone the repository and execute from within and execute:
+
+.. code-block:: shell
+
+    $ git clone git@github.com:Fahima-Islam/chop.git
+    $ cd chop
+    
+* Anaconda (Recommended)
+.. code-block:: shell
+
+    $ conda install -c fi0 chop
+    
+* Pypi
+.. code-block:: shell
+
+    $ pip install chop
+    
 
 Credits
 -------
@@ -35,3 +59,4 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
