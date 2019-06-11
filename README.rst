@@ -28,7 +28,7 @@ Features
 
 Examples
 --------
-.. image:: https://raw.githubusercontent.com/Fahima-Islam/chop/master/figure/Screenshot%20from%202019-06-10%2023-04-30.png
+.. image:: https://raw.githubusercontent.com/Fahima-Islam/ornlneutronimaging/chop/master/figure/Screenshot%20from%202019-06-10%2023-04-30.png
    :width: 300pt
 
 
