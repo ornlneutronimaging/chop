@@ -6,7 +6,7 @@ chop
         :target: https://anaconda.org/fi0/chop
         
 .. image:: https://img.shields.io/pypi/v/chop.svg
-       :target:
+       :target: https://pypi.org/project/chop3/
 
 .. image:: https://img.shields.io/travis/Fahima-Islam/chop.svg
         :target: https://travis-ci.org/Fahima-Islam/chop
