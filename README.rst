@@ -16,7 +16,7 @@ chop
 
 
 
-Produce the time distance diagram for different chooper configuration
+Produce the time distance diagram for different chopper configuration
 ---------------------------------------------------------------------------------
 Features
 --------
