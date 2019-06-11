@@ -21,7 +21,7 @@ Produce the time distance diagram for different chooper configuration
 Features
 --------
 
-* Calculation of the wavelength band-width to avoid frame overlap
+* Calculation of the band-width to avoid frame overlap
 * Calculation of the time when chopper T1 or T2  or T3 opens
 * Calculation of the chopper phase angle
 
