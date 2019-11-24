@@ -18,7 +18,7 @@ chop
 
 
 
-Produce the time distance diagram for different chopper configuration
+Produce the time distance diagram (show not overlapping frames) for different chopper configuration
 ---------------------------------------------------------------------------------
 Features
 --------
